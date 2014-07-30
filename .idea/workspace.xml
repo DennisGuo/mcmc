@@ -2,58 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99676c98-844a-4e15-9a84-ca90c988bb43" name="Default" comment="">
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\Routes$$anonfun$Routes$$controllers_Application_example1_invoker$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\Routes$$anonfun$Routes$$controllers_Application_home0_invoker$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\Routes$$anonfun$Routes$$controllers_Application_index0_invoker$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\Routes$$anonfun$Routes$$controllers_Assets_at1_invoker$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\Routes$$anonfun$Routes$$controllers_Assets_at2_invoker$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\Routes$$anonfun$documentation$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\Routes$$anonfun$routes$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\Routes$$anonfun$setPrefix$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\Routes$.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\Routes.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\controllers\ReverseApplication.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\controllers\ReverseAssets.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\controllers\javascript\ReverseApplication.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\controllers\javascript\ReverseAssets.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\controllers\ref\ReverseApplication$$anonfun$example$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\controllers\ref\ReverseApplication$$anonfun$home$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\controllers\ref\ReverseApplication$$anonfun$index$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\controllers\ref\ReverseApplication.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\controllers\ref\ReverseAssets$$anonfun$at$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\controllers\ref\ReverseAssets.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\controllers\routes$javascript.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\controllers\routes$ref.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\controllers\routes.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\views\html\example$$anonfun$f$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\views\html\example$.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\views\html\example.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\views\html\exaple$$anonfun$f$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\views\html\exaple$.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\views\html\exaple.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\views\html\hello$$anonfun$f$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\views\html\hello$.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\views\html\hello.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\views\html\index$$anonfun$f$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\views\html\index$.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\views\html\index.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\views\html\main$$anonfun$f$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\views\html\main$$anonfun$f$1.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\views\html\main$.class" afterPath="" />
-      <change type="DELETED" beforePath="F:\www\mcmc\target\scala-2.11\classes_managed\views\html\main.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/application.log" afterPath="$PROJECT_DIR$/logs/application.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/cache/root/compile/play_instrumentation" afterPath="$PROJECT_DIR$/target/scala-2.11/cache/root/compile/play_instrumentation" />
     </list>
     <ignored path="mcmc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -116,17 +65,7 @@
     <favorites_list name="mcmc" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="8" selection-start="16" selection-end="16" vertical-scroll-proportion="0.02178899" vertical-offset="0" max-vertical-offset="872">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -142,6 +81,7 @@
         <option value="$PROJECT_DIR$/logs/application.log" />
         <option value="$PROJECT_DIR$/conf/application.conf" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.idea_modules/mcmc.iml" />
       </list>
     </option>
   </component>
@@ -165,7 +105,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="0" />
+    <option name="STATE" value="2" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -180,7 +120,40 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcmc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcmc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcmc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcmc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcmc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -197,20 +170,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mcmc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mcmc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mcmc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -473,15 +432,21 @@
       <workItem from="1406701867194" duration="64000" />
       <workItem from="1406701956644" duration="2706000" />
       <workItem from="1406705571541" duration="885000" />
+      <workItem from="1406706859156" duration="153000" />
+      <workItem from="1406707014904" duration="374000" />
+      <workItem from="1406707427876" duration="92000" />
+      <workItem from="1406707521237" duration="393000" />
+      <workItem from="1406707918990" duration="69000" />
+      <workItem from="1406707989515" duration="64000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3655000" />
+    <option name="totallyTimeSpent" value="4800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32035595" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -492,7 +457,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814237" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33599088" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -501,7 +466,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24140625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -509,6 +474,33 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32035595" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33599088" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USERS">
@@ -527,39 +519,46 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/logs/application.log">
+    <entry file="file://$PROJECT_DIR$/.idea_modules/mcmc.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="228">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/application.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="13" selection-start="1323" selection-end="1323" vertical-scroll-proportion="0.0" vertical-offset="779" max-vertical-offset="1482">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/routes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="304">
+        <state line="25" column="86" selection-start="1487" selection-end="1487" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3287">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="190">
-          <folding />
-        </state>
+        <state line="4" column="9" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="8" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0" vertical-offset="19" max-vertical-offset="133" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/logs/application.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="-0.0" vertical-offset="95" max-vertical-offset="228">
-          <folding />
-        </state>
+        <state line="5" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="228" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="13" selection-start="1323" selection-end="1323" vertical-scroll-proportion="0.0" vertical-offset="779" max-vertical-offset="1482" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/routes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="304" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/application.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="-0.0" vertical-offset="95" max-vertical-offset="228" />
       </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
@@ -567,21 +566,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/routes">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.2178899" vertical-offset="0" max-vertical-offset="872">
-          <folding />
-        </state>
+        <state line="10" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.2178899" vertical-offset="0" max-vertical-offset="872" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/application.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="35" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.15022936" vertical-offset="610" max-vertical-offset="1482">
+        <state line="39" column="35" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.15022936" vertical-offset="610" max-vertical-offset="1482" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/scala-2.11/src_managed/main/controllers/routes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="159" selection-end="159" vertical-scroll-proportion="0.1404806" vertical-offset="0" max-vertical-offset="541" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="18" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="627" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/mindmap.mm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="30" selection-start="604" selection-end="604" vertical-scroll-proportion="0.17560074" vertical-offset="0" max-vertical-offset="541" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea_modules/mcmc.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="86" selection-start="1487" selection-end="1487" vertical-scroll-proportion="-0.4061372" vertical-offset="700" max-vertical-offset="3287">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="8" selection-start="16" selection-end="16" vertical-scroll-proportion="0.02178899" vertical-offset="0" max-vertical-offset="872">
+        <state line="4" column="9" selection-start="44" selection-end="44" vertical-scroll-proportion="0.13718411" vertical-offset="0" max-vertical-offset="554">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.history">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="849">
           <folding />
         </state>
       </provider>
@@ -603,7 +627,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Detection</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -650,7 +674,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>SBT: dom4j:dom4j:1.6.1</last-edited>
+          <last-edited>SBT: scala:2.10.4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
