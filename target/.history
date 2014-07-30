@@ -25,3 +25,4 @@ compile
 start -Dapplication.secret="guohengxi_gaojingshu"
 start -Dapplication.secret="guohengxigaojingshu"
 start -Dapplication.secret=guohengxigaojingshu
+compile
